@@ -1,2 +1,2 @@
-# Y-ksel_Toprak_Portofilio
+# Yüksel_Toprak_Portofilio
 iOS Portfolio
